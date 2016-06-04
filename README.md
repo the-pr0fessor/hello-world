@@ -1,3 +1,3 @@
 # hello-world
 hello world
-System.out.println("hello world"); do dis
+System.out.println("hi world"); do dis
